@@ -1,0 +1,6 @@
+{
+	"Key": "JSON_KEYCHAIN_HERE",
+	"Endpoint": "wss://ropsten.infura.io/_ws",
+	"ContractAddress": "CONTRACT_HERE",
+	"GasPrice": 0
+}
